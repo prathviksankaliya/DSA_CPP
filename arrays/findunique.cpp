@@ -32,8 +32,9 @@ int findUnique(int arr[], int n)
 }
 int main()
 {
-    int arr[7] = {7,5,1,3,7,3,5};
+    // int arr[7] = {7,5,1,3,7,3,5};
 
-    cout << findUnique(arr, 7) << endl;
+    // cout << findUnique(arr, 7) << endl;
+    return 2+4;
 
 }
